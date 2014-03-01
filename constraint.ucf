@@ -1,0 +1,8 @@
+NET "led1" LOC = "M5";
+NET "led2" LOC = "M11";
+
+# Pin assignment for pushbutton switches
+NET "rst" LOC = "A7";
+ 
+# Pin assignment for clock
+NET "clk" LOC = "B8";
